@@ -1,4 +1,4 @@
-// Animate skill bars when in view
+
 const bars = document.querySelectorAll('.bar span');
 const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
