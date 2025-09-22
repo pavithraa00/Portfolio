@@ -55,13 +55,13 @@ body {
     color: #bb86fc;
 }
 
-/* Hero Section (Simple) */
+/* Hero Section*/
 .hero {
     background: #1f1f1f;
     color: #e0e0e0;
-    max-width: 900px;        /* same as about section */
-    margin: 1.5rem auto;     /* center it */
-    border-radius: 10px;     /* same rounded style */
+    max-width: 900px;        
+    margin: 1.5rem auto;     
+    border-radius: 10px;     
     box-shadow: 0 2px 15px rgba(0,0,0,0.4);
     padding: 2rem;
     text-align: center;
@@ -223,7 +223,7 @@ section {
     font-size: 1rem;
 }
 .contact-form button {
-    background: #bb86fc; /* light purple */
+    background: #bb86fc; 
     color: #121212;
     font-weight: bold;
     padding: 12px 20px;
@@ -235,7 +235,7 @@ section {
 }
 
 .contact-form button:hover {
-    background: #9a67ea; /* deeper purple on hover */
+    background: #9a67ea;
     transform: scale(1.05);
 }
 
